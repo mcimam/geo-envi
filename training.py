@@ -1,0 +1,1 @@
+# Buat model untuk prediksi gambar itu fossil apa
